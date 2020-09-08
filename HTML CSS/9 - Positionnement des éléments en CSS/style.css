@@ -1,0 +1,30 @@
+.article
+{
+    position: relative;
+    background: #C0C0C0;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+
+}
+
+.details
+{
+  float: right;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-left: 80px;
+  background-color: #4477FF;
+    
+}
+
+.fix
+{
+    float: right;
+    right:0;
+    bottom: 0;
+    background: #3355FF;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+}

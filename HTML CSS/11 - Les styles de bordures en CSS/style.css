@@ -1,0 +1,38 @@
+article
+{
+    border: 2px solid rgba(0,0,0,0.3);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    line-height: 1.5 ;
+}
+
+.titre-article
+{
+    border-bottom: 1px dashed rgba(0,0,0,0.3);
+    font: bold 1.4em , monospace;
+    margin-bottom: 1.4em;
+}
+
+.detail-article
+{
+    margin-bottom: 1em;
+    text-align: center;
+}
+ 
+.detail-article p
+{
+    color:#7b7b7b; 
+    padding: 10px;
+    font-size: 1em; 
+    text-align: justify;
+}
+
+a
+{
+    text-decoration: none;
+    color:#FFF;
+    background: #8870FF;
+    padding: 10px;
+    border-radius: 200px/50px;
+}
